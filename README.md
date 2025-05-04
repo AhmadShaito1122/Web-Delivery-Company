@@ -32,6 +32,3 @@ A web-based delivery service platform that allows users to send and receive orde
 
 1. **Clone the Repository**
 
-```bash
-git clone https://github.com/yourusername/delivery-company-system.git
-cd delivery-company-system
